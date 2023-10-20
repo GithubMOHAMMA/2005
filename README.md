@@ -1,4 +1,4 @@
-git clone git clonehttps://github.com/GithubMOHAMMA/2005
+git clone https://github.com/GithubMOHAMMA/2005
 
 ls
 
